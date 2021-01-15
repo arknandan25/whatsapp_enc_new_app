@@ -11,7 +11,8 @@
 * https://www.process-one.net/blog/how-to-move-the-office-to-real-time-im-on-ejabberd/
 * https://docs.ejabberd.im/admin/configuration/
 * Youtube video for ejabberd server: https://www.youtube.com/watch?v=hscthU8Cu3s
-
+* Installation: https://www.process-one.net/blog/ejabberd-on-macos-with-homebrew-package-manager/
+* Lite-setup: https://docs.ejabberd.im/developer/install-osx/
 
 ```
 /usr/local/etc/ejabberd/ejabberd.yml
