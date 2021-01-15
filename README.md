@@ -23,3 +23,7 @@
 
 3. Openfire xmpp server:
 * https://www.programmersought.com/article/6185132360/
+
+
+Firebase based e2ee apps:
+* https://www.youtube.com/watch?v=bVXT_AkHIEQ
