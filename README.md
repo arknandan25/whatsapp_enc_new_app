@@ -27,3 +27,11 @@
 
 Firebase based e2ee apps:
 * https://www.youtube.com/watch?v=bVXT_AkHIEQ
+* https://www.youtube.com/watch?v=988UZFB0heA&t=5965s
+
+SQLite Based login/register:
+* https://www.youtube.com/watch?v=8obgNNlj3Eo
+
+E2EE:
+* https://www.youtube.com/watch?v=M22O3q0-0WE&list=PL2cPYwzGtGnt4guyxpk6EYliDyhHvDgJ7
+* https://github.com/duerrfk/ecdh-curve25519-mobile
