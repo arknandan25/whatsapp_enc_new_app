@@ -24,14 +24,19 @@
 3. Openfire xmpp server:
 * https://www.programmersought.com/article/6185132360/
 
-
+---
+Trello board for project:
+```
+https://trello.com/b/ZFv7VQih/whatsapp-fyp
+```
 Firebase based e2ee apps:
-* https://www.youtube.com/watch?v=bVXT_AkHIEQ
-* https://www.youtube.com/watch?v=988UZFB0heA&t=5965s
+* Abdriod app youtube tutorial AES E2EE- https://www.youtube.com/watch?v=bVXT_AkHIEQ
+* WhatsApp CLone Youtube tutorial(free code camp)- https://www.youtube.com/watch?v=988UZFB0heA&t=5965s
 
 SQLite Based login/register:
-* https://www.youtube.com/watch?v=8obgNNlj3Eo
+* Login/Register with SQLite- https://www.youtube.com/watch?v=8obgNNlj3Eo
 
 E2EE:
-* https://www.youtube.com/watch?v=M22O3q0-0WE&list=PL2cPYwzGtGnt4guyxpk6EYliDyhHvDgJ7
-* https://github.com/duerrfk/ecdh-curve25519-mobile
+* Generic encryption in java/android youtube tutorial(3 part series)- https://www.youtube.com/watch?v=M22O3q0-0WE&list=PL2cPYwzGtGnt4guyxpk6EYliDyhHvDgJ7
+* Curve-25519-mobile-ecdh github- https://github.com/duerrfk/ecdh-curve25519-mobile
+* Generic cryptogaphy java android(technolearning) youtube series - https://www.youtube.com/watch?v=g5q3EnBdfw8&list=PL2cPYwzGtGnsnQE_mfi7qWKHlUCEyCTYd
