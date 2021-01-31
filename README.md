@@ -40,3 +40,6 @@ E2EE:
 * Generic encryption in java/android youtube tutorial(3 part series)- https://www.youtube.com/watch?v=M22O3q0-0WE&list=PL2cPYwzGtGnt4guyxpk6EYliDyhHvDgJ7
 * Curve-25519-mobile-ecdh github- https://github.com/duerrfk/ecdh-curve25519-mobile
 * Generic cryptogaphy java android(technolearning) youtube series - https://www.youtube.com/watch?v=g5q3EnBdfw8&list=PL2cPYwzGtGnsnQE_mfi7qWKHlUCEyCTYd
+
+Certificate and Android:
+* https://support.google.com/pixelphone/answer/2844832?hl=en
