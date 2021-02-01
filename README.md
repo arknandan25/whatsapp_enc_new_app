@@ -43,3 +43,13 @@ E2EE:
 
 Certificate and Android:
 * https://support.google.com/pixelphone/answer/2844832?hl=en
+
+
+
+
+
+---
+## Non Technical Links
+* Check common word errors: https://brians.wsu.edu/common-errors/
+* Using latex for report writing: overleaf.com
+
