@@ -41,6 +41,11 @@ E2EE:
 * Curve-25519-mobile-ecdh github- https://github.com/duerrfk/ecdh-curve25519-mobile
 * Generic cryptogaphy java android(technolearning) youtube series - https://www.youtube.com/watch?v=g5q3EnBdfw8&list=PL2cPYwzGtGnsnQE_mfi7qWKHlUCEyCTYd
 
+* Article on AES+GCM: https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-7616beaaade9
+* Article on AES-CBC+HMCA in android: https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-and-android-part-2-b3b80e99ad36
+* ECDH on android: https://nelenkov.blogspot.com/2011/12/using-ecdh-on-android.html
+Simple AES symmetric encryption on android: https://www.amarinfotech.com/how-to-do-aes-256-encryption-decryption-in-android.html
+
 Certificate and Android:
 * https://support.google.com/pixelphone/answer/2844832?hl=en
 
