@@ -32,6 +32,7 @@ https://trello.com/b/ZFv7VQih/whatsapp-fyp
 Firebase based e2ee apps:
 * Abdriod app youtube tutorial AES E2EE- https://www.youtube.com/watch?v=bVXT_AkHIEQ
 * WhatsApp CLone Youtube tutorial(free code camp)- https://www.youtube.com/watch?v=988UZFB0heA&t=5965s
+* WhatsApp Clone + All the features in the world: https://www.youtube.com/watch?v=B2mGZtsh-qc&list=PLxefhmF0pcPmtdoud8f64EpgapkclCllj&index=60
 
 SQLite Based login/register:
 * Login/Register with SQLite- https://www.youtube.com/watch?v=8obgNNlj3Eo
