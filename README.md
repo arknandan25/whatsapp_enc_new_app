@@ -51,7 +51,8 @@ Certificate and Android:
 * https://support.google.com/pixelphone/answer/2844832?hl=en
 
 
-
+Group Chat E2EE:
+* https://security.stackexchange.com/questions/204295/end-to-end-encrypted-group-chat-considerations
 
 
 ---
