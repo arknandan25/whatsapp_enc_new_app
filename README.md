@@ -47,6 +47,9 @@ E2EE:
 * ECDH on android: https://nelenkov.blogspot.com/2011/12/using-ecdh-on-android.html
 * Simple AES symmetric encryption on android: https://www.amarinfotech.com/how-to-do-aes-256-encryption-decryption-in-android.html
 * AES Keys: https://kavaliro.com/wp-content/uploads/2014/03/AES.pdf
+* Image Encryption : https://www.youtube.com/watch?v=kI2gfl4izAs
+* File Encryption: https://www.coderzheaven.com/2013/03/19/encrypt-decrypt-file-aes-algorithm-android/
+
 
 Certificate and Android:
 * https://support.google.com/pixelphone/answer/2844832?hl=en
