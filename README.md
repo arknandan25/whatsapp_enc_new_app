@@ -34,6 +34,18 @@ Firebase based e2ee apps:
 * WhatsApp CLone Youtube tutorial(free code camp)- https://www.youtube.com/watch?v=988UZFB0heA&t=5965s
 * WhatsApp Clone + All the features in the world: https://www.youtube.com/watch?v=B2mGZtsh-qc&list=PLxefhmF0pcPmtdoud8f64EpgapkclCllj&index=60
 
+---
+WhatsApp Clone + All the features in the world: https://www.youtube.com/watch?v=B2mGZtsh-
+* vid 17- add a grp to firebase
+* vid 18- add grp and view on listview i.e retireve from firebase db all grp names
+* vid 19- chat components of each grp
+* vid 20- send msg to grp in firebase
+* vid 21- tutorial of how manually entered users ->all viewing all the groups on firebase and send a messge and that msg is shown on their screens
+* vid 22- scroll view and auto scroll to bottom i.e the latest group chat
+* vid 29, 30- create layout for find/add friends circular profile pic + user name using recycler adapter
+* vid 49 - custom chat layout https://www.youtube.com/watch?v=s01G12JAOFw&list=PLxefhmF0pcPmtdoud8f64EpgapkclCllj&index=49
+
+---
 SQLite Based login/register:
 * Login/Register with SQLite- https://www.youtube.com/watch?v=8obgNNlj3Eo
 
