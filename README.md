@@ -56,6 +56,7 @@ E2EE:
 
 * Article on AES+GCM: https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-7616beaaade9
 * Article on AES-CBC+HMCA in android: https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-and-android-part-2-b3b80e99ad36
+* ENC Android: https://medium.com/@lucideus/secure-derivation-of-keys-in-android-pbkdf2-lucideus-371452cc29f7
 * ECDH on android: https://nelenkov.blogspot.com/2011/12/using-ecdh-on-android.html
 * Simple AES symmetric encryption on android: https://www.amarinfotech.com/how-to-do-aes-256-encryption-decryption-in-android.html
 * AES Keys: https://kavaliro.com/wp-content/uploads/2014/03/AES.pdf
@@ -69,6 +70,28 @@ Certificate and Android:
 
 Group Chat E2EE:
 * https://security.stackexchange.com/questions/204295/end-to-end-encrypted-group-chat-considerations
+* https://security.stackexchange.com/questions/119633/how-does-whatsapps-new-group-chat-protocol-work-and-what-security-properties-do
+* https://www.reddit.com/r/cryptography/comments/j75ub8/how_group_chats_can_be_end_to_end_encrypted/
+* https://stackoverflow.com/questions/48249900/end-to-end-encryption-for-a-chat-application
+* https://blog.trailofbits.com/2019/08/06/better-encrypted-group-chat/
+
+
+Biography:
+*https://newcollege.asu.edu/sites/default/files/2017-2018_sample_student_bio_form.pdf
+
+
+Android Technicalities:
+* https://developer.android.com/studio/build/multidex
+* https://stackoverflow.com/questions/60310873/execution-failed-for-task-appmergedexdebug-firestore-flutter
+* https://stackoverflow.com/questions/6264185/image-button-is-not-displayed-in-linear-layout
+* https://stackoverflow.com/questions/4123630/android-align-button-to-bottom-right-of-screen-using-framelayout
+* https://stackoverflow.com/questions/29924145/how-to-sign-the-certificates-with-elliptic-curve-private-keys-and-ecdsa-algorith
+* https://stackoverflow.com/questions/40572436/android-java-lang-noclassdeffounderror-org-bouncycastle-crypto-engines-aesengin
+* https://stackoverflow.com/questions/42630190/error-including-bouncycastle-provider
+* https://stackoverflow.com/questions/8454463/what-are-the-different-types-of-instances-for-keyfactory
+* https://www.semicolonworld.com/question/49186/certificate-enrollment-process
+* https://medium.com/@bouhady/self-sign-certificate-creation-using-spongy-castle-for-android-app-61f1545dd63
+
 
 
 ---
