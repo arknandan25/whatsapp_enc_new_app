@@ -62,18 +62,35 @@ E2EE:
 * AES Keys: https://kavaliro.com/wp-content/uploads/2014/03/AES.pdf
 * Image Encryption : https://www.youtube.com/watch?v=kI2gfl4izAs
 * File Encryption: https://www.coderzheaven.com/2013/03/19/encrypt-decrypt-file-aes-algorithm-android/
+* More Material for paper:
+* ECDH:https://asecuritysite.com/encryption/ecdh
+* https://cryptobook.nakov.com/asymmetric-key-ciphers/ecdh-key-exchange
+* MAC and Message Intergrity:https://www.pcmag.com/encyclopedia/term/message-integrity#:~:text=The%20validity%20of%20a%20transmitted,that%20is%20difficult%20to%20reverse.
+* https://security.stackexchange.com/questions/14858/mac-vs-encryption
+* https://security.stackexchange.com/questions/20129/how-and-when-do-i-use-hmac
+* https://en.wikipedia.org/wiki/HMAC#Design_principles
+* https://tools.ietf.org/html/rfc2104
+* 
 
 
 Certificate and Android:
 * https://support.google.com/pixelphone/answer/2844832?hl=en
 
-
+AES:
+* https://russell.ballestrini.net/what-are-the-differences-between-message-confidentiality-and-message-integrity/#:~:text=integrity%20without%20confidentiality%3F-,message%20confidentiality,between%20trusted%20parties%20is%20confidential.
+* https://crypto.stackexchange.com/questions/44967/properties-of-a-single-message-protocol-using-aes
+* https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard
+* https://datalocker.com/what-is-the-difference-between-ecb-mode-versus-cbc-mode-aes-encryption/#:~:text=The%20Advanced%20Encryption%20Standard%20(AES,first%20generation%20of%20the%20AES.&text=CBC%20(Cipher%20Blocker%20Chaining)%20is,form%20of%20block%20cipher%20encryption.
+* 
+ 
 Group Chat E2EE:
 * https://security.stackexchange.com/questions/204295/end-to-end-encrypted-group-chat-considerations
 * https://security.stackexchange.com/questions/119633/how-does-whatsapps-new-group-chat-protocol-work-and-what-security-properties-do
 * https://www.reddit.com/r/cryptography/comments/j75ub8/how_group_chats_can_be_end_to_end_encrypted/
 * https://stackoverflow.com/questions/48249900/end-to-end-encryption-for-a-chat-application
 * https://blog.trailofbits.com/2019/08/06/better-encrypted-group-chat/
+
+
 
 
 Biography:
@@ -91,6 +108,7 @@ Android Technicalities:
 * https://stackoverflow.com/questions/8454463/what-are-the-different-types-of-instances-for-keyfactory
 * https://www.semicolonworld.com/question/49186/certificate-enrollment-process
 * https://medium.com/@bouhady/self-sign-certificate-creation-using-spongy-castle-for-android-app-61f1545dd63
+* Time in nano seconds java: https://mkyong.com/java/java-how-to-convert-system-nanotime-to-seconds/
 
 
 
