@@ -50,6 +50,12 @@ SQLite Based login/register:
 * Login/Register with SQLite- https://www.youtube.com/watch?v=8obgNNlj3Eo
 
 E2EE:
+* e2ee paper: https://www.researchgate.net/publication/342621891_Improving_Non-Experts%27_Understanding_of_End-to-End_Encryption_An_Exploratory_Study
+* https://protonmail.com/blog/what-is-end-to-end-encryption/
+* https://www.kaspersky.com/blog/what-is-end-to-end-encryption/37011/
+* https://teamdrive.com/en/overview-of-end-to-end-encryption/
+* 
+* --------
 * Generic encryption in java/android youtube tutorial(3 part series)- https://www.youtube.com/watch?v=M22O3q0-0WE&list=PL2cPYwzGtGnt4guyxpk6EYliDyhHvDgJ7
 * Curve-25519-mobile-ecdh github- https://github.com/duerrfk/ecdh-curve25519-mobile
 * Generic cryptogaphy java android(technolearning) youtube series - https://www.youtube.com/watch?v=g5q3EnBdfw8&list=PL2cPYwzGtGnsnQE_mfi7qWKHlUCEyCTYd
@@ -72,17 +78,34 @@ E2EE:
 * https://tools.ietf.org/html/rfc2104
 * 
 
+ECDH and curver 25519 theory:
+* http://koclab.cs.ucsb.edu/teaching/ecc/project/2015Projects/Haakegaard+Lang.pdf
+* https://billatnapier.medium.com/little-protects-you-on-line-like-ecdh-lets-go-create-it-a14188eabded
+* https://medium.com/swlh/understanding-ec-diffie-hellman-9c07be338d4a
+* https://www.cryptosys.net/pki/manpki/pki_eccsafecurves.html
+* https://cr.yp.to/ecdh/curve25519-20060209.pdf
+* https://www.intechopen.com/books/theorizing-stem-education-in-the-21st-century/implementation-of-elliptic-curve25519-in-cryptography
+* https://en.wikipedia.org/wiki/Curve25519
+* https://cryptobook.nakov.com/asymmetric-key-ciphers/ecdh-key-exchange#:~:text=The%20ECDH%20(Elliptic%20Curve%20Diffie,secret%20over%20an%20insecure%20channel.
+* 
+
+Forward Secrecy:
+* RATCHET: https://nfil.dev/coding/encryption/python/double-ratchet-example/
+* https://avinetworks.com/glossary/perfect-forward-secrecy/
+* https://www.wired.com/2016/11/what-is-perfect-forward-secrecy/
 
 Certificate and Android:
 * https://support.google.com/pixelphone/answer/2844832?hl=en
 
-AES:
+AES,MAC, cryptography basics:
 * https://russell.ballestrini.net/what-are-the-differences-between-message-confidentiality-and-message-integrity/#:~:text=integrity%20without%20confidentiality%3F-,message%20confidentiality,between%20trusted%20parties%20is%20confidential.
 * https://crypto.stackexchange.com/questions/44967/properties-of-a-single-message-protocol-using-aes
 * https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard
 * https://datalocker.com/what-is-the-difference-between-ecb-mode-versus-cbc-mode-aes-encryption/#:~:text=The%20Advanced%20Encryption%20Standard%20(AES,first%20generation%20of%20the%20AES.&text=CBC%20(Cipher%20Blocker%20Chaining)%20is,form%20of%20block%20cipher%20encryption.
-* 
+* security level: https://en.wikipedia.org/wiki/Security_level#:~:text=In%20cryptography%2C%20security%20level%20is,cipher%20or%20hash%20function%20%E2%80%94%20achieves.
+* key size:https://en.wikipedia.org/wiki/Key_size
  
+
 Group Chat E2EE:
 * https://security.stackexchange.com/questions/204295/end-to-end-encrypted-group-chat-considerations
 * https://security.stackexchange.com/questions/119633/how-does-whatsapps-new-group-chat-protocol-work-and-what-security-properties-do
