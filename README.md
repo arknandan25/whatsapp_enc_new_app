@@ -112,9 +112,20 @@ Group Chat E2EE:
 * https://www.reddit.com/r/cryptography/comments/j75ub8/how_group_chats_can_be_end_to_end_encrypted/
 * https://stackoverflow.com/questions/48249900/end-to-end-encryption-for-a-chat-application
 * https://blog.trailofbits.com/2019/08/06/better-encrypted-group-chat/
+* [IMP]:https://ieeexplore-ieee-org.elib.tcd.ie/stamp/stamp.jsp?tp=&arnumber=8406614
 
 
+Blockchain with certs:
+* https://viquetur.medium.com/storing-and-verifying-documents-using-blockchain-technology-ba697921c4af#:~:text=Certificates%20are%20placed%20on%20a,form%20that%20cannot%20be%20altered.
+* https://www.cyberbahnit.com/wp-content/uploads/2018/01/POC_for_Educational_Certificates_Cyberbahn.pdf
+* https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8969448&fileOId=8969449
+* [IMP]|:http://www.tara.tcd.ie/bitstream/handle/2262/92581/X509Cloud_FinalSubmission.pdf;jsessionid=D148D6D40E83383E3E35B65004F10924?sequence=1
 
+Material for writing the report
+* Latex:https://www.overleaf.com/learn/latex/Questions/How_do_I_adjust_the_font_size%3F
+* https://www.overleaf.com/learn/latex/Paragraph_formatting#Starting_a_new_paragraph
+* http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907092
+* report guidelines: https://projects.scss.tcd.ie/information-for-students/report-and-dissertation-guidelines/
 
 Biography:
 *https://newcollege.asu.edu/sites/default/files/2017-2018_sample_student_bio_form.pdf
