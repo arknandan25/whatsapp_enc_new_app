@@ -125,6 +125,8 @@ Material for writing the report
 * Latex:https://www.overleaf.com/learn/latex/Questions/How_do_I_adjust_the_font_size%3F
 * https://www.overleaf.com/learn/latex/Paragraph_formatting#Starting_a_new_paragraph
 * http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907092
+* [IMP]: https://en.wikibooks.org/wiki/LaTeX/Fonts
+* https://tex.stackexchange.com/questions/335990/is-there-a-command-to-make-first-letter-upper-case
 * report guidelines: https://projects.scss.tcd.ie/information-for-students/report-and-dissertation-guidelines/
 
 Biography:
