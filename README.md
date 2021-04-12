@@ -122,6 +122,14 @@ Blockchain with certs:
 * https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8969448&fileOId=8969449
 * [IMP]|:http://www.tara.tcd.ie/bitstream/handle/2262/92581/X509Cloud_FinalSubmission.pdf;jsessionid=D148D6D40E83383E3E35B65004F10924?sequence=1
 
+PKI
+* X509 CLoud: http://www.tara.tcd.ie/bitstream/handle/2262/92581/X509Cloud_FinalSubmission.pdf;jsessionid=D148D6D40E83383E3E35B65004F10924?sequence=1
+* https://medium.com/remme/why-next-generation-pki-will-reside-on-the-blockchain-44befcd2af3a
+* https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf
+
+
+
+
 Material for writing the report
 * Latex:https://www.overleaf.com/learn/latex/Questions/How_do_I_adjust_the_font_size%3F
 * https://www.overleaf.com/learn/latex/Paragraph_formatting#Starting_a_new_paragraph
