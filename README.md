@@ -113,6 +113,7 @@ Group Chat E2EE:
 * https://stackoverflow.com/questions/48249900/end-to-end-encryption-for-a-chat-application
 * https://blog.trailofbits.com/2019/08/06/better-encrypted-group-chat/
 * [IMP]:https://ieeexplore-ieee-org.elib.tcd.ie/stamp/stamp.jsp?tp=&arnumber=8406614
+* Paper on WA, Signal,Threema vulnerabilities: https://eprint.iacr.org/2017/713.pdf
 
 
 Blockchain with certs:
