@@ -54,7 +54,8 @@ E2EE:
 * https://protonmail.com/blog/what-is-end-to-end-encryption/
 * https://www.kaspersky.com/blog/what-is-end-to-end-encryption/37011/
 * https://teamdrive.com/en/overview-of-end-to-end-encryption/
-* 
+* forbes on e2e: https://www.forbes.com/sites/forbestechcouncil/2021/03/30/fully-secure-messaging-needs-more-than-end-to-end-encryption/?sh=6c4dd5c56158
+* good article, good content: https://hackernoon.com/secure-instant-messaging-platform-the-importance-of-security-algorithm-in-chat-apps-dy3p36b7
 * --------
 * Generic encryption in java/android youtube tutorial(3 part series)- https://www.youtube.com/watch?v=M22O3q0-0WE&list=PL2cPYwzGtGnt4guyxpk6EYliDyhHvDgJ7
 * Curve-25519-mobile-ecdh github- https://github.com/duerrfk/ecdh-curve25519-mobile
